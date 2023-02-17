@@ -3,5 +3,6 @@
 Install the required libraries
 <li>
 openai
-colorama
+</li>
+<li> colorama
 </li>
