@@ -1,5 +1,5 @@
 # chatgpt_task
 
-Install the required libraries
+Install the required libraries \n
 openai
 colorama
